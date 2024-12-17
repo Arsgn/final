@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "model": "Tesla Model S",
+    "brand": "Tesla",
+    "year": 2024,
+    "price": 100,
+    "image": "https://www.motortrend.com/uploads/2024/01/1-2024-Tesla-Model-S-front-view.jpg?w=768&width=768&q=75&format=webp",
+    "location": "Moscow"
+  },
+  {
+    "id": 2,
+    "model": "BMW X5",
+    "brand": "BMW",
+    "year": 2021,
+    "price": 80,
+    "image": "https://alfaleasing.ru/catalog-next/_next/image/?url=https://io.ilsa.ru/gallery/catalog/5/35/add5719623c69d27494b469440559355.jpg&w=3840&q=70",
+    "location": "Saint Petersburg"
+  },
+  {
+    "id": 3,
+    "model": "Audi A4 e-tron",
+    "brand": "Audi",
+    "year": 2023,
+    "price": 75,
+    "image": "https://topelectricsuv.com/wp-content/uploads/2022/05/Audi-A4-e-tron-rendering.jpg",
+    "location": "Kazan"
+  },
+  {
+    "id": 4,
+    "model": "Ford Mustang Mach-E",
+    "brand": "Ford",
+    "year": 2023,
+    "price": 90,
+    "image": "https://www.gpas-cache.ford.com/guid/57ca97be-0472-32e7-bc3a-b62f3e0a84a0.jpg",
+    "location": "Novosibirsk"
+  },
+  {
+    "id": 5,
+    "model": "Chevrolet Bolt EV",
+    "brand": "Chevrolet",
+    "year": 2022,
+    "price": 70,
+    "image": "https://di-sitebuilder-assets.s3.amazonaws.com/GMimages/gmMLP/chevrolet/Bolt-EV/2021/MOSAIC-BLACK-METALLIC.jpg",
+    "location": "Yekaterinburg"
+  },
+  {
+    "id": 6,
+    "model": "Nissan Leaf",
+    "brand": "Nissan",
+    "year": 2021,
+    "price": 65,
+    "image": "https://www-europe.nissan-cdn.net/content/dam/Nissan/gb/vehicles/leaf/20TDIEURHD_B12P_LEAF_N-CONNECTA_AND_E_001X_211210_CROP.jpg.ximg.l_12_m.smart.jpg",
+    "location": "Sochi"
+  },
+  {
+    "id": 7,
+    "model": "Porsche Taycan",
+    "brand": "Porsche",
+    "year": 2022,
+    "price": 120,
+    "image": "https://www.porscheorlandpark.com/static/dealer-21321/2402_Taycan_Turbo_Cross_Turismo_Trim.webp",
+    "location": "St. Petersburg"
+  },
+  {
+    "id": 8,
+    "model": "Jaguar I-PACE",
+    "brand": "Jaguar",
+    "year": 2023,
+    "price": 110,
+    "image": "https://media.cdn-jaguarlandrover.com/api/v2/images/100807/w/680.jpg",
+    "location": "Krasnoyarsk"
+  },
+  {
+    "id": 9,
+    "model": "Mercedes-Benz EQC",
+    "brand": "Mercedes-Benz",
+    "year": 2022,
+    "price": 115,
+    "image": "https://evdb.nz/wp-content/uploads/2021/07/mercedes-benz-eqc.jpg",
+    "location": "Vladivostok"
+  },
+  {
+    "id": 10,
+    "model": "Hyundai Kona Electric",
+    "brand": "Hyundai",
+    "year": 2021,
+    "price": 85,
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/29580/kona-electric-exterior-right-front-three-quarter-162254.jpeg?isig=0&wm=1&q=80",
+    "location": "Minsk"
+  },
+  {
+    "id": 11,
+    "model": "BMW iX",
+    "brand": "BMW",
+    "year": 2023,
+    "price": 150,
+    "image": "https://vehicle-images.dealerinspire.com/677a-18003200/WB523CF08SCS38040/7d1df8a5168678f6c165dffb959e9127.jpg",
+    "location": "Kazan"
+  },
+  {
+    "id": 12,
+    "model": "Audi Q4 e-tron",
+    "brand": "Audi",
+    "year": 2022,
+    "price": 95,
+    "image": "https://images.dealer.com/ddc/vehicles/2025/Audi/Q4%20e-tron/SUV/color/Glacier%20White%20Metallic-2Y2Y-229,230,229-640-en_US.jpg",
+    "location": "Moscow"
+  },
+  {
+    "id": 13,
+    "model": "Tesla Model 3",
+    "brand": "Tesla",
+    "year": 2022,
+    "price": 90,
+    "image": "https://tesla-cars.by/wp-content/uploads/2022/02/Tesla-Model-3_2023_1000x660_1-optimized.jpg",
+    "location": "Saint Petersburg"
+  },
+  {
+    "id": 14,
+    "model": "Lucid Air",
+    "brand": "Lucid",
+    "year": 2023,
+    "price": 160,
+    "image": "https://cdn.euroncap.com/media/75355/lucid-air.png",
+    "location": "Moscow"
+  },
+  {
+    "id": 15,
+    "model": "Rivian R1T",
+    "brand": "Rivian",
+    "year": 2023,
+    "price": 180,
+    "image": "https://www.iihs.org/cdn-cgi/image/width=636/api/ratings/model-year-images/3215/",
+    "location": "Nizhny Novgorod"
+  },
+  {
+    "id": 16,
+    "model": "Volkswagen ID.4",
+    "brand": "Volkswagen",
+    "year": 2022,
+    "price": 85,
+    "image": "https://image.made-in-china.com/2f0j00SIRkzPytYupO/Volkswagen-ID-4-Crozz-442km-Cruising-Range-New-Energy-Vehicle-VW-ID4-Used-Car-5-Doors-5-Seats-SUV-Electric-Car.webp",
+    "location": "Samara"
+  },
+  {
+    "id": 17,
+    "model": "Hyundai Ioniq 5",
+    "brand": "Hyundai",
+    "year": 2023,
+    "price": 95,
+    "image": "https://motor.ru/imgs/2023/07/14/06/6007000/bb3b2e10f253e6121deebe137fd1c77291bbcd5b.jpg",
+    "location": "Kazan"
+  },
+  {
+    "id": 18,
+    "model": "BMW 4 Series Gran Coupe",
+    "brand": "BMW",
+    "year": 2022,
+    "price": 105,
+    "image": "https://m.atcdn.co.uk/vms/media/a74ea1e4fee84efbb57728586de9eb41.jpg",
+    "location": "Krasnodar"
+  },
+  {
+    "id": 19,
+    "model": "Rivian R1S",
+    "brand": "Rivian",
+    "year": 2023,
+    "price": 200,
+    "image": "https://moscowteslaclub.ru/upload/resize_cache/iblock/f5f/1266_715_2/i15yylvvk4axg2alcbjvpbhpm0yypsmn.jpg",
+    "location": "Vladivostok"
+  },
+  {
+    "id": 20,
+    "model": "Polestar 2",
+    "brand": "Polestar",
+    "year": 2023,
+    "price": 145,
+    "image": "https://media.drive.com.au/obj/tx_q:50,rs:auto:1920:1080:1/driveau/upload/cms/uploads/f79e223d-8a38-5faa-9558-27bfae850000",
+    "location": "Moscow"
+  }
+]
